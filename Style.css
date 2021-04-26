@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    margin-top: -120px;
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+}
+
+
+body{
+    background-image: url(Wetterstein_mountains_banner.jpg);
+    background-size: 1950px 300px, cover;
+    background-attachment: local;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: rgb(245, 245, 245);
+
+}
+
+.container{
+    padding-top: 210px;
+}
+
+.btn{
+    border-radius: 20px;
+}
+
+.card{
+    border-radius: 60px;
+    box-shadow: 0 12px 12px #d3d3d3;
+}
+
+.locate{
+    margin-left: 40px;
+}
+
+#task{
+    margin-left: 40px;
+    width: 935px;
+}
+
+.description{
+    margin-left: 40px;
+}
+
+.fa-trash-alt{
+    color: #B06AB3;
+    transition: color 0.4s;
+}
+.fa-trash-alt:hover{
+    color: #69336b
+}
+
